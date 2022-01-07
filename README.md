@@ -9,5 +9,5 @@ The 2020 US Census faced by challenges on many fronts: politicization of the cen
 <em>Description:</em><br>
 Original report and dataset for Oregon at: https://pdxscholar.library.pdx.edu/prc_pub/45/. This follows nearly identical methodology for Oregon, but applied to the State of California. The only changes were made to use population data from the California Department of Finance (<a href=https://dof.ca.gov/forecasting/demographics/>link</a>) instead of Portland State Univeristy's Population Research Center, and to deal with a few different geography changes between 2010 and 2019 in California compared to Oregon. It can be adapted with small effort to other states, using state population estimates or relying only on data from the USCB PEP. This implementation did not use any proprietary data (the Oregon study used some data from ESRI under license).
 
-Acknowledgements:
+<em>Acknowledgements:</em><br>
 I'm grateful to colleagues from the Federal-State Cooperative for Population Estimates, and the fantastic research staff of the US Census Bureau, especially in the Population and Geography Divisions. Without the joint effort of these groups, this work would have been impossible (or would have looked very, very different). 
