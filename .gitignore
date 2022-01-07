@@ -1,0 +1,9 @@
+data.acs/*.dta
+data.census/*.dta
+data.geo/06_California_AddressBlockCountList_092021.txt
+data.geo/2020CQR_ST06_block_countlist.csv
+data.working/*.*
+writeup/*.*
+*.dta
+bda_bk10.*
+bda_bk20.csv.zip
